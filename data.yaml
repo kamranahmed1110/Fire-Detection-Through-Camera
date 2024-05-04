@@ -1,0 +1,4 @@
+train: Datacluster Fire and Smoke Sample/train
+val: Datacluster Fire and Smoke Sample/test
+nc: 1
+names: ['fire']

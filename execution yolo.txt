@@ -1,0 +1,6 @@
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+yolo_venv/scripts/activate
+cd predictions
+jupyter notebook
+
+mean absolute position
